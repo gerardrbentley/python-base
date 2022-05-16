@@ -1,12 +1,13 @@
-# JupyterLite Demo
+# Browser Python Demos
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://gerardrbentley.github.io/python-base/lab/index.html)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+JupyterLite deployed as a static site to GitHub Pages.
+Deployed with ❤️ by [Gar's Bar](https://tech.gerardbentley.com/)
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://jupyterlite.github.io/demo**
+➡️ **https://gerardrbentley.github.io/python-base**
 
 ![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
