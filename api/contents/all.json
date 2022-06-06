@@ -2,21 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-05-16T01:18:42.338320Z",
+      "created": "2022-06-06T15:54:10.766339Z",
       "format": null,
-      "last_modified": "2022-05-16T01:17:21.799086Z",
-      "mimetype": null,
-      "name": "browser_boost.ipynb",
-      "path": "browser_boost.ipynb",
-      "size": 20429,
-      "type": "notebook",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-05-16T01:18:42.394322Z",
-      "format": null,
-      "last_modified": "2022-05-16T01:18:42.394322Z",
+      "last_modified": "2022-06-06T15:54:10.766339Z",
       "mimetype": null,
       "name": "data",
       "path": "data",
@@ -26,9 +14,21 @@
     },
     {
       "content": null,
-      "created": "2022-05-16T01:18:42.338320Z",
+      "created": "2022-06-06T15:54:10.698339Z",
       "format": null,
-      "last_modified": "2022-05-16T01:18:40.522248Z",
+      "last_modified": "2022-06-06T15:52:36.253992Z",
+      "mimetype": null,
+      "name": "browser_boost.ipynb",
+      "path": "browser_boost.ipynb",
+      "size": 20429,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-06T15:54:10.698339Z",
+      "format": null,
+      "last_modified": "2022-06-06T15:54:08.746330Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-05-16T01:18:42.342320Z",
+  "created": "2022-06-06T15:54:10.698339Z",
   "format": "json",
-  "last_modified": "2022-05-16T01:18:42.342320Z",
+  "last_modified": "2022-06-06T15:54:10.698339Z",
   "mimetype": null,
   "name": "",
   "path": "",
